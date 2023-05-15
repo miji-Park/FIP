@@ -1,6 +1,7 @@
 # FIP
 
-<p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/프로젝트FFF2.png?raw=true"/></p>
+<p align="center"><img src="![커피한잔](https://github.com/miji-Park/FIP/assets/129833754/f4eedaae-01c2-4536-85fe-b7aed4b8f88a)
+"/></p>
 <p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/FFF의미.png?raw=true"/></p>
 
 인천일보 아카데미에서 진행한 팀 프로젝트 입니다.
