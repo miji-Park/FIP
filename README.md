@@ -1,10 +1,7 @@
 # FIP
 
-<p align="center"><img src="![커피한잔](https://github.com/miji-Park/FIP/assets/129833754/f4eedaae-01c2-4536-85fe-b7aed4b8f88a)
-"/></p>![커피한잔](https://github.com/miji-Park/FIP/assets/129833754/070b020e-728e-45b7-a6a2-5852899eba70)
+![커피한잔](https://github.com/miji-Park/FIP/assets/129833754/ac4da396-d741-4ae3-b0e8-a0b9ceb007ff)
 
-<p align="center"><img src="![Uploading 커피한잔.jpg…]()
-  "/></p>
 
 인천일보 아카데미에서 진행한 팀 프로젝트 입니다.
 
