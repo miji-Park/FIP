@@ -84,7 +84,9 @@
 
 
 - **상품상세에서 장바구니 담기**
-![장바구니 담기1](https://github.com/miji-Park/FIP/assets/129833754/4da94e21-90f0-41cd-bde9-0c6a67aa372e)
+
+https://github.com/miji-Park/FIP/assets/129833754/54ba8823-6672-49e4-8393-feedf67b6c13
+
 
 
 
