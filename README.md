@@ -54,8 +54,10 @@
 
 # Views & Implementation
 
+ 
  ####메인
 ![image](https://github.com/miji-Park/FIP/assets/129833754/ed98fa70-06ec-4f2f-9ad3-273b7f0ded0c)
+
 ------  
   
  ####로그인 & 회원가입
