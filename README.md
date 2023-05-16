@@ -28,7 +28,8 @@
 
 ![image](https://github.com/miji-Park/FIP/assets/129833754/096a4f2f-5784-4242-a2ca-6b0eef8bcabc)
 
-![image](https://github.com/miji-Park/FIP/assets/129833754/66061e35-7e46-462c-9555-3f56d2e47bde)
+<img width="321" alt="디비" src="https://github.com/miji-Park/FIP/assets/129833754/a2a0490e-5ba4-4e67-81a8-3bc136b5d21d">
+
 
 
 
