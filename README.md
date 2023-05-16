@@ -28,9 +28,8 @@
 
 ![image](https://github.com/miji-Park/FIP/assets/129833754/096a4f2f-5784-4242-a2ca-6b0eef8bcabc)
 
-![image](https://github.com/miji-Park/FIP/assets/129833754/9cf06210-6520-4f9d-8b15-8e75446531ae)
+![image](https://github.com/miji-Park/FIP/assets/129833754/66061e35-7e46-462c-9555-3f56d2e47bde)
 
-테이블 : 16개
 
 
 - 담당 구현 파트
