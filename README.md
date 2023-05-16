@@ -54,11 +54,11 @@
 
 # Views & Implementation
 
-- ####메인
+ ####메인
   ![image](https://github.com/miji-Park/FIP/assets/129833754/ed98fa70-06ec-4f2f-9ad3-273b7f0ded0c)
   
   
-- ####로그인 & 회원가입
+ ####로그인 & 회원가입
  - **로그인 페이지**
  ![image](https://github.com/miji-Park/FIP/assets/129833754/7f322f02-26e5-40b0-8057-5be98757b864)
 
@@ -76,7 +76,7 @@
   
 ------
 
-- ####상품페이지
+ ####상품페이지
 
 - **상품리스트 페이지**
 ![image](https://github.com/miji-Park/FIP/assets/129833754/2370b461-258c-4335-b319-f90e3210fc88)
@@ -89,7 +89,7 @@
 
 ------
 
-- ####주문결제 페이지
+ ####주문결제 페이지
 
 // 카카오페이 결제하는 움짤
  ![image](https://github.com/miji-Park/FIP/assets/129833754/7a6a1b9d-9d2a-4396-9a01-56900e12a8d5)
@@ -97,7 +97,7 @@
 
 
 ------
-- #### 스타일 게시판
+ #### 스타일 게시판
 
   - **스타일 게시판 리스트 **
   ![image](https://github.com/miji-Park/FIP/assets/129833754/09a0e7fe-705f-46c0-b5fc-353e5cb461d9)
@@ -108,7 +108,7 @@
 
 
 ------
-- #### 관리자 페이지
+ #### 관리자 페이지
   
   - **펀딩 리스트 출력 **
     <p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/펀딩리스트1.gif?raw=true"/></p>
