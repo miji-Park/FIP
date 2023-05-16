@@ -115,7 +115,11 @@ https://github.com/miji-Park/FIP/assets/129833754/92bdd340-34c1-41fc-a82c-7f470f
 
   
   **스타일 상세페이지에서 좋아요** 
- https://github.com/miji-Park/FIP/assets/129833754/d837f712-6071-46af-9e30-992bc06e5a8b
+
+
+
+https://github.com/miji-Park/FIP/assets/129833754/b60b9a61-5384-4414-a5f0-874b92e94caf
+
 
 
 
