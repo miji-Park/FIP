@@ -59,12 +59,12 @@
   
   
  ####로그인 & 회원가입
-  **로그인 및 회원가입 페이지**
+  
 ![image](https://github.com/miji-Park/FIP/assets/129833754/995f672f-0475-477d-9c12-5256c443111a)
 
 
 
- **회원가입 시 이메일 인증**
+ - **회원가입 시 이메일 인증**
   
 
 https://github.com/miji-Park/FIP/assets/129833754/c45af3c3-ae8e-4b8a-a647-b50b3a6c2f34
@@ -76,11 +76,11 @@ https://github.com/miji-Park/FIP/assets/129833754/c45af3c3-ae8e-4b8a-a647-b50b3a
 
  ####상품페이지
 
-**상품리스트 페이지**
+- **상품리스트 페이지**
 ![image](https://github.com/miji-Park/FIP/assets/129833754/2370b461-258c-4335-b319-f90e3210fc88)
 
 
-**상품상세에서 장바구니 담기**
+- **상품상세에서 장바구니 담기**
 
 https://github.com/miji-Park/FIP/assets/129833754/54ba8823-6672-49e4-8393-feedf67b6c13
 
@@ -92,7 +92,7 @@ https://github.com/miji-Park/FIP/assets/129833754/54ba8823-6672-49e4-8393-feedf6
 
  ####주문결제 페이지
 
-**카카오페이 결제**
+- **카카오페이 결제**
 
 
 https://github.com/miji-Park/FIP/assets/129833754/92bdd340-34c1-41fc-a82c-7f470f30e99a
@@ -103,11 +103,11 @@ https://github.com/miji-Park/FIP/assets/129833754/92bdd340-34c1-41fc-a82c-7f470f
 
  #### 스타일 게시판
 
-  **스타일 게시판 리스트 **
+ - **스타일 게시판 리스트 **
 ![image](https://github.com/miji-Park/FIP/assets/129833754/09a0e7fe-705f-46c0-b5fc-353e5cb461d9)
 
   
-  **스타일 상세페이지에서 좋아요** 
+- **스타일 상세페이지에서 좋아요** 
 
 
 
@@ -120,11 +120,11 @@ https://github.com/miji-Park/FIP/assets/129833754/b60b9a61-5384-4414-a5f0-874b92
 ------
  #### 관리자 페이지
   
-**회원관리**
+- **회원관리**
 ![image](https://github.com/miji-Park/FIP/assets/129833754/b169e128-3ff4-4732-b0ac-54d5cb5ee684)
 
 
-**상품관리**
+- **상품관리**
 
 
 
@@ -132,11 +132,11 @@ https://github.com/miji-Park/FIP/assets/129833754/eb24f1e0-decb-4abd-9093-8dcf1d
 
 
 
-**스타일 관리**
+- **스타일 관리**
 <p>![image](https://github.com/miji-Park/FIP/assets/129833754/0aa433c6-b27d-4227-b0ab-f7506d57b5ba)</p>
 
 
-**공지사항 관리**
+- **공지사항 관리**
 <p>![image](https://github.com/miji-Park/FIP/assets/129833754/67100c9d-806f-4d0c-9b62-f79de73a7eb7)</p>
  
  
