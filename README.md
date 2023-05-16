@@ -28,7 +28,7 @@
 
 ![image](https://github.com/miji-Park/FIP/assets/129833754/096a4f2f-5784-4242-a2ca-6b0eef8bcabc)
 
-![image](https://github.com/miji-Park/FIP/assets/129833754/8d6af2b2-6839-4884-83fc-f2901e2495b1)
+![image](https://github.com/miji-Park/FIP/assets/129833754/92a4ebc0-9a66-4136-82c0-d7572d6eef8c)
 
 
 
