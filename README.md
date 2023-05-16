@@ -103,7 +103,7 @@ https://github.com/miji-Park/FIP/assets/129833754/92bdd340-34c1-41fc-a82c-7f470f
 
  #### 스타일 게시판
 
-- **스타일 게시판 리스트 **
+- **스타일 게시판 리스트**
 ![image](https://github.com/miji-Park/FIP/assets/129833754/09a0e7fe-705f-46c0-b5fc-353e5cb461d9)
 
   
