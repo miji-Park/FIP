@@ -16,91 +16,99 @@
 
 - 사용 기술
 
-<p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/사용한프로그램.png?raw=true"/></p>
+![image](https://github.com/miji-Park/FIP/assets/129833754/c6324ba1-f5d3-4ef6-aa11-f91046117fc5)
 
 
-  - Spring 4.0,  Apache Tomcat 9.0,  Tiles3,  BootStrap,  Mybatis,  Eclipse
+  - Spring 4.0,  Apache Tomcat 9.0,  BootStrap,  Mybatis,  Eclipse
   - Java,  Ajax,  Jquery,  MVC Pttern,JSP
   - Oracle 11g DataBase
-  - CoolSMS,  Kakao Api
+  - Kakao Api
 
 # 프로젝트 일정 및 데이터베이스 ERD
 
- <p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/프로젝트 일정.png?raw=true"/></p>
+ ![image](https://github.com/miji-Park/FIP/assets/129833754/096a4f2f-5784-4242-a2ca-6b0eef8bcabc)
 
+![image](https://github.com/miji-Park/FIP/assets/129833754/9cf06210-6520-4f9d-8b15-8e75446531ae)
 
-
- <p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/프로젝트 ERd.png?raw=true"/></p>
-
-
-
+테이블 : 16개
 
 
 - 담당 구현 파트
 
   - 프로젝트 개발환경 구축, OracleDB로 데이터베이스 설계
 
-  - 로그인 페이지, 회원가입 페이지 구현(우편주소API, 핸드폰 문자 인증 API, 이메일 메일전송 API)
+  - 로그인 페이지, 회원가입 페이지 구현(우편주소API, 이메일 메일전송 API)
 
-  - 아이디,비밀번호 찾기 페이지 구현
+  - 상품 페이지(카테고리별/판매순/최신순 별로 상품 조회 가능, 상품상세 페이지에서 수량 및 옵션 선택, 바로 구매 및 장바구니 담기 가능)
 
-  - 문의 게시판 페이지 구현(작성, 수정 ,삭제, 페이징, 검색 기능)
+  - 주문 결제 페이지(카카오페이 결제 기능)
   
-  - 문의 게시판 상세 기능 구현(비밀글 , 답변상태 기능)
+  - 스타일 게시판(최신순/인기순/브랜드 별 조회 가능, 상세페이지에서 좋아요/댓글 기능)
 
-  - 관리자페이지 문의게시판 구현(미답변인 글들만 보이도록 구현)
+  - 마이페이지(프로필 사진 변경, 회원 탈퇴 기능, 찜 목록, 내가 쓴 글/관심 글 목록)
   
-  - 자주묻는질문 외부 CDN 이용하여 구현
+  - 관리자페이지(회원관리, 상품관리, 스타일게시판 관리, 공지사항 관리)
 
 
     
 
-# Views
+# Views & Implementation
 
-- **메인**
-
-  <p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/메인화면.gif?raw=true"/></p>
+- ####메인
+  ![image](https://github.com/miji-Park/FIP/assets/129833754/ed98fa70-06ec-4f2f-9ad3-273b7f0ded0c)
   
   
-  - **로그인**
- 
- <p align="center"><img width="930" alt="스크린샷 2023-04-16 오후 4 38 48" src="https://user-images.githubusercontent.com/105100402/232283293-f78ba26e-de74-4688-b45d-1d5220bf11cb.png"></p>
+- ####로그인 & 회원가입
+ - **로그인 페이지**
+ ![image](https://github.com/miji-Park/FIP/assets/129833754/7f322f02-26e5-40b0-8057-5be98757b864)
+
   
   
   
-  - **회원가입**
+ - **회원가입 페이지**
   
-  <img width="995" alt="휴대폰 인증" src="https://user-images.githubusercontent.com/105100402/232295001-17fc7d8f-ecef-437a-9193-66407a8cc7b7.png">
+  ![image](https://github.com/miji-Park/FIP/assets/129833754/be0c3002-b3d4-4c03-b5f4-c490e0ed10fd)
+
+
+ - **회원가입 시 이메일 인증**
+  ![image](https://github.com/miji-Park/FIP/assets/129833754/7565d381-fb59-47b1-8a9e-bb3633c1cb05)
+
+  
+------
+
+- ####상품페이지
+
+- **상품리스트 페이지**
+![image](https://github.com/miji-Park/FIP/assets/129833754/2370b461-258c-4335-b319-f90e3210fc88)
+
+
+- **상품상세에서 장바구니 담기**
+![image](https://github.com/miji-Park/FIP/assets/129833754/d674f2d6-4d55-48ee-8384-3082ec15cd84)
 
 
 
-  <p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/휴대폰인증.gif?raw=true"/></p>
+------
+
+- ####주문결제 페이지
+
+// 카카오페이 결제하는 움짤
+ ![image](https://github.com/miji-Park/FIP/assets/129833754/7a6a1b9d-9d2a-4396-9a01-56900e12a8d5)
 
 
 
+------
+- #### 스타일 게시판
 
-- **펀딩** 
+  - **스타일 게시판 리스트 **
+  ![image](https://github.com/miji-Park/FIP/assets/129833754/09a0e7fe-705f-46c0-b5fc-353e5cb461d9)
 
-   <p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/펀딩상세.gif?raw=true"/></p>
-
-
-
-
-
-- **공연 예매**
-
- <p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/공연예매.gif?raw=true"/></p>
+  
+  //스타일 상세에서 댓글 달기랑 좋아요 
+![image](https://github.com/miji-Park/FIP/assets/129833754/acb62f16-ebb3-4ddf-9d3f-492ed5966ea7)
 
 
-
-- **아티스트 SNS**
-
-  <p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/sns페이지.gif?raw=true"/></p>
-
-
-# Implementation
-
-- #### 펀딩 리스트
+------
+- #### 관리자 페이지
   
   - **펀딩 리스트 출력 **
     <p align="center"><img src="https://github.com/jjwa2/-FFF/blob/master/이미지파일/펀딩리스트1.gif?raw=true"/></p>
@@ -192,7 +200,5 @@
 1.글 작성할 때 비밀글 체크 시 관리자와 작성자만 글제목과 글내용을 확인할 수 있고 다른 사용자는 노란글씨로 '비밀글입니다'로 보이며 클릭 시 alert창에 '비밀글입니다'라고 뜨며 볼 수 없음
 2.관리자가 미답변인 글에 답변을 작성 시 미답변 -> 답변완료로 상태 변경
 
-- **자주묻는질문**
 
-<p align="center"><img width="924" alt="FAQ" src="https://user-images.githubusercontent.com/105100402/232292421-2c197162-5bde-4710-912c-94f4ee52b08a.png"></p>
 
