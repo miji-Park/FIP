@@ -59,19 +59,22 @@
   
   
  ####로그인 & 회원가입
- - **로그인 페이지**
+  **로그인 페이지**
  ![image](https://github.com/miji-Park/FIP/assets/129833754/7f322f02-26e5-40b0-8057-5be98757b864)
 
   
   
   
- - **회원가입 페이지**
+ **회원가입 페이지**
   
   ![image](https://github.com/miji-Park/FIP/assets/129833754/be0c3002-b3d4-4c03-b5f4-c490e0ed10fd)
 
 
- - **회원가입 시 이메일 인증**
-  ![회원가입 이메일인증](https://github.com/miji-Park/FIP/assets/129833754/e1c3b501-5bc6-4bd6-b683-d7200d098431)
+ **회원가입 시 이메일 인증**
+  
+
+https://github.com/miji-Park/FIP/assets/129833754/c45af3c3-ae8e-4b8a-a647-b50b3a6c2f34
+
 
 
   
@@ -79,11 +82,11 @@
 
  ####상품페이지
 
-- **상품리스트 페이지**
+**상품리스트 페이지**
 ![image](https://github.com/miji-Park/FIP/assets/129833754/2370b461-258c-4335-b319-f90e3210fc88)
 
 
-- **상품상세에서 장바구니 담기**
+**상품상세에서 장바구니 담기**
 
 https://github.com/miji-Park/FIP/assets/129833754/54ba8823-6672-49e4-8393-feedf67b6c13
 
@@ -95,8 +98,11 @@ https://github.com/miji-Park/FIP/assets/129833754/54ba8823-6672-49e4-8393-feedf6
 
  ####주문결제 페이지
 
-// 카카오페이 결제하는 움짤
-![카카오페이](https://github.com/miji-Park/FIP/assets/129833754/23094def-9c0b-4bff-865f-85f976640ebc)
+**카카오페이 결제**
+
+
+https://github.com/miji-Park/FIP/assets/129833754/92bdd340-34c1-41fc-a82c-7f470f30e99a
+
 
 
 
@@ -104,12 +110,13 @@ https://github.com/miji-Park/FIP/assets/129833754/54ba8823-6672-49e4-8393-feedf6
 ------
  #### 스타일 게시판
 
-  - **스타일 게시판 리스트 **
+  **스타일 게시판 리스트 **
   ![image](https://github.com/miji-Park/FIP/assets/129833754/09a0e7fe-705f-46c0-b5fc-353e5cb461d9)
 
   
-  //스타일 상세에서 댓글 달기랑 좋아요 
-![스타일게시판](https://github.com/miji-Park/FIP/assets/129833754/a9bd1179-9311-4875-a61e-1676f8e79de6)
+  **스타일 상세페이지에서 좋아요** 
+ https://github.com/miji-Park/FIP/assets/129833754/d837f712-6071-46af-9e30-992bc06e5a8b
+
 
 
 
