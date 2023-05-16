@@ -71,7 +71,8 @@
 
 
  - **회원가입 시 이메일 인증**
-  ![image](https://github.com/miji-Park/FIP/assets/129833754/7565d381-fb59-47b1-8a9e-bb3633c1cb05)
+  ![회원가입 이메일인증](https://github.com/miji-Park/FIP/assets/129833754/e1c3b501-5bc6-4bd6-b683-d7200d098431)
+
 
   
 ------
