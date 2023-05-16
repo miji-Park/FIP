@@ -103,7 +103,7 @@ https://github.com/miji-Park/FIP/assets/129833754/92bdd340-34c1-41fc-a82c-7f470f
 
  #### 스타일 게시판
 
- - **스타일 게시판 리스트 **
+- **스타일 게시판 리스트 **
 ![image](https://github.com/miji-Park/FIP/assets/129833754/09a0e7fe-705f-46c0-b5fc-353e5cb461d9)
 
   
@@ -133,11 +133,11 @@ https://github.com/miji-Park/FIP/assets/129833754/eb24f1e0-decb-4abd-9093-8dcf1d
 
 
 - **스타일 관리**
-<p>![image](https://github.com/miji-Park/FIP/assets/129833754/0aa433c6-b27d-4227-b0ab-f7506d57b5ba)</p>
+![image](https://github.com/miji-Park/FIP/assets/129833754/0aa433c6-b27d-4227-b0ab-f7506d57b5ba)
 
 
 - **공지사항 관리**
-<p>![image](https://github.com/miji-Park/FIP/assets/129833754/67100c9d-806f-4d0c-9b62-f79de73a7eb7)</p>
+![image](https://github.com/miji-Park/FIP/assets/129833754/67100c9d-806f-4d0c-9b62-f79de73a7eb7)
  
  
 
