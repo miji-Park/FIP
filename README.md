@@ -20,8 +20,8 @@
 
 
   - Spring 4.0,  Apache Tomcat 9.0,  BootStrap,  Mybatis,  Eclipse
-  - Java,  Ajax,  Jquery,  MVC Pttern,JSP
-  - Oracle 11g DataBase
+  - Java,  Ajax,  Jquery,  MVC Pttern, JSP
+  - Oracle DataBase
   - Kakao Api
 
 # 프로젝트 일정 및 데이터베이스 ERD
