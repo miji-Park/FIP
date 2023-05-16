@@ -84,7 +84,8 @@
 
 
 - **상품상세에서 장바구니 담기**
-![image](https://github.com/miji-Park/FIP/assets/129833754/d674f2d6-4d55-48ee-8384-3082ec15cd84)
+![장바구니 담기1](https://github.com/miji-Park/FIP/assets/129833754/4da94e21-90f0-41cd-bde9-0c6a67aa372e)
+
 
 
 
@@ -93,7 +94,8 @@
  ####주문결제 페이지
 
 // 카카오페이 결제하는 움짤
- ![image](https://github.com/miji-Park/FIP/assets/129833754/7a6a1b9d-9d2a-4396-9a01-56900e12a8d5)
+![카카오페이](https://github.com/miji-Park/FIP/assets/129833754/23094def-9c0b-4bff-865f-85f976640ebc)
+
 
 
 
@@ -105,7 +107,8 @@
 
   
   //스타일 상세에서 댓글 달기랑 좋아요 
-![image](https://github.com/miji-Park/FIP/assets/129833754/acb62f16-ebb3-4ddf-9d3f-492ed5966ea7)
+![스타일게시판](https://github.com/miji-Park/FIP/assets/129833754/a9bd1179-9311-4875-a61e-1676f8e79de6)
+
 
 
 ------
