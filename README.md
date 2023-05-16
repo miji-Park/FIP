@@ -1,5 +1,5 @@
 # FIP
-<p>![image](https://github.com/miji-Park/FIP/assets/129833754/b4a6cf35-124b-40e1-9bf7-b61ac49f337b)</p>
+![image](https://github.com/miji-Park/FIP/assets/129833754/b4a6cf35-124b-40e1-9bf7-b61ac49f337b)</br>
 
 
 인천일보 아카데미에서 진행한 팀 프로젝트 입니다.
