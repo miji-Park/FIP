@@ -55,12 +55,12 @@
 # Views & Implementation
 
  
- ####메인
+ #### 메인
 ![image](https://github.com/miji-Park/FIP/assets/129833754/ed98fa70-06ec-4f2f-9ad3-273b7f0ded0c)
 
 ------  
   
- ####로그인 & 회원가입
+ #### 로그인 & 회원가입
   
 ![image](https://github.com/miji-Park/FIP/assets/129833754/995f672f-0475-477d-9c12-5256c443111a)
 
@@ -75,7 +75,7 @@ https://github.com/miji-Park/FIP/assets/129833754/c45af3c3-ae8e-4b8a-a647-b50b3a
 
 ------
 
- ####상품페이지
+ #### 상품페이지
 
 - **상품리스트 페이지**
 ![image](https://github.com/miji-Park/FIP/assets/129833754/2370b461-258c-4335-b319-f90e3210fc88)
@@ -91,7 +91,7 @@ https://github.com/miji-Park/FIP/assets/129833754/54ba8823-6672-49e4-8393-feedf6
 
 ------
 
- ####주문결제 페이지
+ #### 주문결제 페이지
 
 - **카카오페이 결제**
 
